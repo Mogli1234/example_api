@@ -1,0 +1,14 @@
+C:\Users\EQUIPO\Documents\TestApi\API\example_api\APIExample\bin\Debug\netcoreapp2.1\APIExample.deps.json
+C:\Users\EQUIPO\Documents\TestApi\API\example_api\APIExample\bin\Debug\netcoreapp2.1\APIExample.runtimeconfig.json
+C:\Users\EQUIPO\Documents\TestApi\API\example_api\APIExample\bin\Debug\netcoreapp2.1\APIExample.runtimeconfig.dev.json
+C:\Users\EQUIPO\Documents\TestApi\API\example_api\APIExample\bin\Debug\netcoreapp2.1\APIExample.dll
+C:\Users\EQUIPO\Documents\TestApi\API\example_api\APIExample\bin\Debug\netcoreapp2.1\APIExample.pdb
+C:\Users\EQUIPO\Documents\TestApi\API\example_api\APIExample\obj\Debug\netcoreapp2.1\APIExample.csprojAssemblyReference.cache
+C:\Users\EQUIPO\Documents\TestApi\API\example_api\APIExample\obj\Debug\netcoreapp2.1\APIExample.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Documents\TestApi\API\example_api\APIExample\obj\Debug\netcoreapp2.1\APIExample.RazorAssemblyInfo.cache
+C:\Users\EQUIPO\Documents\TestApi\API\example_api\APIExample\obj\Debug\netcoreapp2.1\APIExample.RazorAssemblyInfo.cs
+C:\Users\EQUIPO\Documents\TestApi\API\example_api\APIExample\obj\Debug\netcoreapp2.1\APIExample.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Documents\TestApi\API\example_api\APIExample\obj\Debug\netcoreapp2.1\APIExample.AssemblyInfo.cs
+C:\Users\EQUIPO\Documents\TestApi\API\example_api\APIExample\obj\Debug\netcoreapp2.1\APIExample.RazorTargetAssemblyInfo.cache
+C:\Users\EQUIPO\Documents\TestApi\API\example_api\APIExample\obj\Debug\netcoreapp2.1\APIExample.dll
+C:\Users\EQUIPO\Documents\TestApi\API\example_api\APIExample\obj\Debug\netcoreapp2.1\APIExample.pdb
